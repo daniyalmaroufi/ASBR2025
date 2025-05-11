@@ -1,5 +1,5 @@
 # ASBR2025
-The reports of the assignments done by [Daniyal Maroufi](https://github.com/daniyalmaroufi) [and Anas Yousaf](https://github.com/any329) as part of the Algorithms for Sensor-based Rbotics course at UT Austin. The course is presented by Dr. Farshid Alambeigi and the content is attended for educational purposes only. 
+The reports of the assignments done by [Daniyal Maroufi](https://github.com/daniyalmaroufi) and [Anas Yousaf](https://github.com/any329) as part of the Algorithms for Sensor-based Rbotics course at UT Austin. The course is presented by Dr. Farshid Alambeigi and the content is attended for educational purposes only. 
 
 # Table of Contents
 
